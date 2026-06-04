@@ -23,7 +23,7 @@ Combines a clean interface with essential productivity features.
 ## 📸 Screenshots
 
 > *Screenshots will be added here soon.*  
-> *(Placeholder)*
+> *(Probably :P)*
 
 ## 🚀 Getting Started
 

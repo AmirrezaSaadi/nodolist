@@ -61,7 +61,7 @@ The app is fully functional and stable, but I’m not planning to add new featur
 
 ## 🙏 Acknowledgments
 
-- Built with Jetpack Compose and Room – thanks to the Android open‑source community.
+- Built with Kotlin & Jetpack Compose – thanks to the Android open‑source community.
 
 ---
 

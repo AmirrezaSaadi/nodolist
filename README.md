@@ -56,7 +56,7 @@ If you encounter issues, try:
 
 ## 🏁 Project Status
 
-**Archived / No longer actively maintained.**  
+**Archived / No longer actively maintained!**  
 The app is fully functional and stable, but I’m not planning to add new features or updates. Feel free to fork and extend it as you like.
 
 ## 🙏 Acknowledgments
